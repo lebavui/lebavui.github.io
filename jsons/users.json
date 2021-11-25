@@ -6,7 +6,7 @@
     "email": "Sincere@april.biz",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb1.jpg",
-	  "photo":"walls/wall1.jpg"
+	  "photo":"/walls/wall1.jpg"
 	},
     "address": {
       "street": "Kulas Light",
@@ -33,7 +33,7 @@
     "email": "Shanna@melissa.tv",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb2.jpg",
-	  "photo":"walls/wall2.jpg"
+	  "photo":"/walls/wall2.jpg"
 	},
     "address": {
       "street": "Victor Plains",
@@ -60,7 +60,7 @@
     "email": "Nathan@yesenia.net",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb3.jpg",
-	  "photo":"walls/wall3.jpg"
+	  "photo":"/walls/wall3.jpg"
 	},
     "address": {
       "street": "Douglas Extension",
@@ -87,7 +87,7 @@
     "email": "Julianne.OConner@kory.org",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb4.jpg",
-	  "photo":"walls/wall4.jpg"
+	  "photo":"/walls/wall4.jpg"
 	},
     "address": {
       "street": "Hoeger Mall",
@@ -114,7 +114,7 @@
     "email": "Lucio_Hettinger@annie.ca",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb5.jpg",
-	  "photo":"walls/wall5.jpg"
+	  "photo":"/walls/wall5.jpg"
 	},
     "address": {
       "street": "Skiles Walks",
@@ -141,7 +141,7 @@
     "email": "Karley_Dach@jasper.info",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb6.jpg",
-	  "photo":"walls/wall6.jpg"
+	  "photo":"/walls/wall6.jpg"
 	},
     "address": {
       "street": "Norberto Crossing",
@@ -168,7 +168,7 @@
     "email": "Telly.Hoeger@billy.biz",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb7.jpg",
-	  "photo":"walls/wall7.jpg"
+	  "photo":"/walls/wall7.jpg"
 	},
     "address": {
       "street": "Rex Trail",
@@ -195,7 +195,7 @@
     "email": "Sherwood@rosamond.me",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb8.jpg",
-	  "photo":"walls/wall8.jpg"
+	  "photo":"/walls/wall8.jpg"
 	},
     "address": {
       "street": "Ellsworth Summit",
@@ -222,7 +222,7 @@
     "email": "Chaim_McDermott@dana.io",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb9.jpg",
-	  "photo":"walls/wall9.jpg"
+	  "photo":"/walls/wall9.jpg"
 	},
     "address": {
       "street": "Dayna Park",
@@ -249,7 +249,7 @@
     "email": "Rey.Padberg@karina.biz",
 	"avatar": {
 	  "thumbnail":"/thumbs/thumb10.jpg",
-	  "photo":"walls/wall10.jpg"
+	  "photo":"/walls/wall10.jpg"
 	},
     "address": {
       "street": "Kattie Turnpike",

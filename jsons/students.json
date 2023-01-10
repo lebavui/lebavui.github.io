@@ -1,0 +1,182 @@
+[
+ {
+  "StudentID": "20193983",
+  "Fullname": "Trần Tuấn Anh",
+  "Birthday": "11\/09\/2001",
+  "Email": "anh.tt193983@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20193990",
+  "Fullname": "Phạm Quốc Bảo",
+  "Birthday": "12\/07\/2001",
+  "Email": "bao.pq193990@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20193993",
+  "Fullname": "Nguyễn Văn Biển",
+  "Birthday": "18\/02\/2001",
+  "Email": "bien.nv193993@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20190173",
+  "Fullname": "Lê Thanh Bình",
+  "Birthday": "15\/09\/2001",
+  "Email": "binh.lt190173@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194011",
+  "Fullname": "Bùi Khắc Đạt",
+  "Birthday": "20\/09\/2001",
+  "Email": "dat.bk194011@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194014",
+  "Fullname": "Nguyễn Văn Đạt",
+  "Birthday": "14\/06\/2001",
+  "Email": "dat.nv194014@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194019",
+  "Fullname": "Hoàng Khắc Đông",
+  "Birthday": "10\/06\/2001",
+  "Email": "dong.hk194019@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20173026",
+  "Fullname": "Nguyễn Như Đức",
+  "Birthday": "03\/10\/1999",
+  "Email": "duc.nn173026@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194024",
+  "Fullname": "Trịnh Huỳnh Đức",
+  "Birthday": "28\/02\/2001",
+  "Email": "duc.th194024@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20190077",
+  "Fullname": "Nguyễn Khương Duy",
+  "Birthday": "19\/10\/2001",
+  "Email": "duy.nk190077@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194036",
+  "Fullname": "Lại Anh Duy",
+  "Birthday": "03\/04\/2001",
+  "Email": "duy.la194036@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194268",
+  "Fullname": "Bùi Xuân Hải",
+  "Birthday": "10\/05\/2001",
+  "Email": "hai.bx194268@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194044",
+  "Fullname": "Chu Ngọc Hiển",
+  "Birthday": "14\/01\/2001",
+  "Email": "hien.cn194044@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20190078",
+  "Fullname": "Hà Trung Kiên",
+  "Birthday": "08\/08\/2001",
+  "Email": "kien.ht190078@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194316",
+  "Fullname": "Vũ Đăng Linh",
+  "Birthday": "17\/05\/2001",
+  "Email": "linh.vd194316@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194110",
+  "Fullname": "Nguyễn Mạnh Luynh",
+  "Birthday": "26\/02\/2001",
+  "Email": "luynh.nm194110@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20190166",
+  "Fullname": "Triệu Quang Mạnh",
+  "Birthday": "05\/08\/2001",
+  "Email": "manh.tq190166@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20173256",
+  "Fullname": "Đặng Văn Mão",
+  "Birthday": "02\/09\/1999",
+  "Email": "mao.dv173256@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194121",
+  "Fullname": "Nguyễn Văn Minh",
+  "Birthday": "12\/10\/2001",
+  "Email": "minh.nv194121@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194140",
+  "Fullname": "Lê Văn Phước",
+  "Birthday": "19\/09\/2001",
+  "Email": "phuoc.lv194140@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194175",
+  "Fullname": "Tạ Hữu Tiến Thành",
+  "Birthday": "16\/10\/2001",
+  "Email": "thanh.tht194175@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194378",
+  "Fullname": "Nguyễn Hoàng Thành",
+  "Birthday": "10\/07\/2001",
+  "Email": "thanh.nh194378@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20183640",
+  "Fullname": "Phạm Trọng Toàn",
+  "Birthday": "29\/07\/2000",
+  "Email": "toan.pt183640@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194189",
+  "Fullname": "Nguyễn Linh Trang",
+  "Birthday": "15\/02\/2001",
+  "Email": "trang.nl194189@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194390",
+  "Fullname": "Hà Mạnh Quý Trúc",
+  "Birthday": "17\/08\/2001",
+  "Email": "truc.hmq194390@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194195",
+  "Fullname": "Trần Quang Trung",
+  "Birthday": "17\/12\/2001",
+  "Email": "trung.tq194195@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194197",
+  "Fullname": "Trịnh Duy Trường",
+  "Birthday": "18\/02\/2001",
+  "Email": "truong.td194197@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194202",
+  "Fullname": "Nguyễn Tiến Tuấn",
+  "Birthday": "31\/03\/2001",
+  "Email": "tuan.nt194202@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20204701",
+  "Fullname": "Trần Anh Tuấn",
+  "Birthday": "16\/02\/2002",
+  "Email": "tuan.ta204701@sis.hust.edu.vn"
+ },
+ {
+  "StudentID": "20194208",
+  "Fullname": "Nguyễn Việt Tùng",
+  "Birthday": "15\/10\/2001",
+  "Email": "tung.nv194208@sis.hust.edu.vn"
+ }
+]

@@ -1,0 +1,16 @@
+services:
+  preview:
+    image: jekyll/jekyll:4.2.2
+    command: >
+      sh -c "
+      bundle install &&
+      jekyll serve --watch --force_polling
+      "
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
+      - jekyll_bundle:/usr/local/bundle
+
+volumes:
+  jekyll_bundle:

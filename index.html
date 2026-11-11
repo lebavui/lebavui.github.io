@@ -1,3 +1,110 @@
----
-layout: front
----
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>lebavui@hust</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Merriweather:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    :root { --primary: #F05F40; --dark: #222; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; width: 100%; }
+    body { font-family: Merriweather, "Helvetica Neue", Arial, sans-serif; background: #fff; }
+
+    /* Navigation */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 10;
+      font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+      background: #fff; border-bottom: 1px solid rgba(34,34,34,.5);
+      min-height: 51px;
+    }
+    nav ul { list-style: none; margin: 0; padding: 0 15px; display: none; }
+    nav.open ul { display: block; }
+    nav a {
+      display: block; padding: 10px 15px; line-height: 20px;
+      text-decoration: none; text-transform: uppercase;
+      font-weight: 700; font-size: 13px; color: var(--dark);
+      transition: all .35s;
+    }
+    nav a:hover { color: var(--primary); }
+    .toggle {
+      display: block; margin: 8px 15px 8px auto; padding: 9px 10px;
+      background: none; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;
+    }
+    .toggle span { display: block; width: 22px; height: 2px; background: #888; border-radius: 1px; }
+    .toggle span + span { margin-top: 4px; }
+
+    /* Header */
+    header {
+      position: relative; width: 100%;
+      background: url("img/header.jpg") center / cover;
+      text-align: center; color: #fff;
+    }
+    .header-content { padding: 100px 15px; }
+    h1 {
+      font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+      font-weight: 700; text-transform: uppercase; margin: 0;
+      font-size: clamp(35px, 8.333vw, 65px); line-height: 1.1;
+    }
+    hr { border: 0; border-top: 3px solid var(--primary); max-width: 50px; margin: 30px auto; }
+    header p {
+      font-weight: 300; color: rgba(255,255,255,.7);
+      font-size: 16px; line-height: 1.5; margin: 0 0 50px;
+    }
+
+    @media (min-width: 768px) {
+      nav { background: transparent; border-color: rgba(255,255,255,.3); transition: all .35s; }
+      nav.affix { background: #fff; border-color: rgba(34,34,34,.5); }
+      .toggle { display: none; }
+      nav ul { display: flex; justify-content: flex-end; padding: 0; margin-right: 0; }
+      nav a { padding: 15px; color: rgba(255,255,255,.7); }
+      nav a:hover { color: #fff; }
+      nav.affix a { color: var(--dark); }
+      nav.affix a:hover { color: var(--primary); }
+      header { min-height: 100%; }
+      .header-content {
+        position: absolute; top: 50%; transform: translateY(-50%);
+        width: 100%; padding: 0 50px;
+      }
+      .header-content-inner { max-width: 1000px; margin: 0 auto; }
+      header p { font-size: 18px; max-width: 80%; margin-left: auto; margin-right: auto; }
+    }
+  </style>
+</head>
+<body>
+  <nav id="mainNav">
+    <button class="toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <ul>
+      <li><a href="https://github.com/lebavui/network_programming">Lập trình mạng</a></li>
+      <li><a href="https://github.com/lebavui/android_tutorial">Lập trình Android</a></li>
+      <li><a href="https://github.com/lebavui/android_tutorial">IoT và ứng dụng</a></li>
+      <li><a href="https://github.com/lebavui/android_tutorial">Thực hành KTMT</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <div class="header-content">
+      <div class="header-content-inner">
+        <h1>Giới thiệu môn học</h1>
+        <hr>
+        <p>lebavui@hust</p>
+      </div>
+    </div>
+  </header>
+
+  <script>
+    const nav = document.getElementById('mainNav');
+    const btn = nav.querySelector('.toggle');
+    btn.addEventListener('click', () => {
+      btn.setAttribute('aria-expanded', nav.classList.toggle('open'));
+    });
+    const onScroll = () => nav.classList.toggle('affix', window.scrollY > 100);
+    window.addEventListener('scroll', onScroll);
+    onScroll();
+  </script>
+</body>
+</html>
